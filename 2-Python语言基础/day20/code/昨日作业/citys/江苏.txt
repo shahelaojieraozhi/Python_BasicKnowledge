@@ -1,0 +1,1 @@
+['康师傅财务会计（苏州）', '防水销售经理（常州）', '软件开发工程师（对日）', '主机手（生产操作）', 'CS修理担当', 'QE（SQE/DQE/CQA）', 'FANCL美容顾问/高级美容顾问', '行政助理兼前台', '江小白市场销售代表（月薪6000+）', '美团销售精英/主管', '肯德基管培生/储备干部-丹阳', '营业担当（南京）', 'Sourcing Engineer 采购工程师', 'SMT CS工程师', 'Continuous Improvement Manager', '精益数字化专员/Lean digital innovation_CC', '活动执行专员', 'Industrial Engineer 工业工程师', '工艺工程师（管培生）', '供应商质量工程师']

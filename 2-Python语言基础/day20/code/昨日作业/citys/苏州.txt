@@ -1,0 +1,1 @@
+['康师傅财务会计（苏州）', '工程渠道 区域销售经理（昆山）', '美团销售经理', 'Sourcing Engineer 采购工程师', 'SMT CS工程师', '精益数字化专员/Lean digital innovation_CC', 'Industrial Engineer 工业工程师', '供应商质量工程师', 'IE Engineer/工业工程师', 'PDS-Advance Purchasing Manager', '双休早教老师绿宝', '技术员', '机加工程师', '高级客服', '3D打印应用工程师', '水泵销售经理', '供应商质量工程师', '市场调研员', '缝纫工', '电气装配工']

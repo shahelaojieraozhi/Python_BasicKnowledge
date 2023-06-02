@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<result>
+    <code>200</code>
+    <msg>success</msg>
+    <data>
+        <person>
+            <name>张三</name>
+            <age>30</age>
+        </person>
+        <person>
+            <name>李四</name>
+            <age>40</age>
+        </person>
+    </data>
+</result>
